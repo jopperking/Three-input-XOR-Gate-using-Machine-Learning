@@ -1,7 +1,7 @@
 # Three-input-XOR-Gate-using-Machine-Learning
 
 <h1 align="center">Hi 👋, I'm JopperKing</h1>
-<h3 align="center">A passionate frontend developer from Earth.</h3>
+<h3 align="center">A machine learning lover from Earth.</h3>
 
 - 🔭 I’m currently working on [Three input XOR Gate using Machine Learning](https://github.com/jopperking/Three-input-XOR-Gate-using-Machine-Learning)
 
