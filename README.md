@@ -14,6 +14,16 @@
 ## Three input XOR Gate Truth Table
 ![Three input XOR Gate Truth Table](https://github.com/jopperking/Three-input-XOR-Gate-using-Machine-Learning/blob/master/B2HeQ.jpg)
 
+## My Input is:
+
+Expeceted (X1-X3) : 
+[1. 1. 1.]
+
+## Machine Learning Output is:
+
+Output (Y1):
+[0.92163457]
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/jopperking" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jopperking" height="30" width="40" /></a>
