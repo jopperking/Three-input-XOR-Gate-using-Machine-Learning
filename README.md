@@ -12,8 +12,7 @@
 - 📫 How to reach me **jopperdeveloper@gmail.com**
 
 ## Three input XOR Gate Truth Table
-
-![Three input XOR Gate Truth Table]https://github.com/jopperking/Three-input-XOR-Gate-using-Machine-Learning/blob/master/B2HeQ.jpg
+![Three input XOR Gate Truth Table](https://github.com/jopperking/Three-input-XOR-Gate-using-Machine-Learning/blob/master/B2HeQ.jpg)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
